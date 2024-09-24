@@ -14,3 +14,10 @@ ls
 git status
 git restore test.py
 git status
+git coomit -m "add commonds file"
+git comit -m "add commonds file"
+git commit -m "add commonds file"
+git status
+git remote add origin https://github.com/JenilDhaduk/github-for-devops-workshop.git
+git remote -v
+git push origin master
