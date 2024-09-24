@@ -21,3 +21,5 @@ git status
 git remote add origin https://github.com/JenilDhaduk/github-for-devops-workshop.git
 git remote -v
 git push origin master
+
+and other tag add
